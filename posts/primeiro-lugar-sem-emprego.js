@@ -1,0 +1,152 @@
+window['__post_primeiro-lugar-sem-emprego'] = `num período de menos de seis meses eu passei em vários concursos públicos. em dois deles fiquei em primeiro lugar. ao mesmo tempo o mercado privado me ignora de um jeito que parece piada. nao consigo nem vaga de atendente de lanchonete, sério. o mcdonalds nem responde meu currículo. ( ; ω ; )
+
+uma dessas coisas ta muito errada. ou as provas de concurso tão medindo algo que o mercado nao liga, ou o mercado ta usando uma régua que simplesmente nao pega quem eu sou. as duas opções me incomodam, mas o fato é que nao bate. nao da pra ser ao mesmo tempo "excelente o suficiente pra vencer centenas de pessoas numa prova" e "inadequada demais pra preencher uma vaga de entrada".
+
+**de onde eu vim**
+
+desde criança eu era aquela que ficava na internet fazendo coisas que ninguem da minha idade fazia. enquanto meus amigos jogavam por diversao, eu ja tava pensando em como os sistemas funcionavam, criando automações bobas, publicando sites desde o ensino fundamental. meu mundo social era quase todo digital e a maior parte dos meus amigos era de fora do brasil, de jogos online. aprendi inglês jogando com gente de taiwan, estados unidos, canada, latinoamerica. nao tinha celular, meu primeiro veio tarde, tipo com uns dezenove anos. enquanto os outros ja tinham smartphone eu tava no pc mesmo, e isso nao me incomodava porque o que importava tava lá.
+
+quando terminei o ensino médio passei num vestibular de tecnologia. deveria ter ido. mas decidi cursar relações internacionais porque meus amigos eram todos do exterior e aquilo fazia sentido na minha cabeça de dezoito anos. nao foi uma boa. mas ninguem é a mesma pessoa que era com dezoito, né 
+
+**o que ninguem via**
+
+na adolescência eu escondia muita coisa. há uns dez anos, no ensino médio, eu só queria sumir. dormia dezesseis horas por dia quando dava. acordava sem querer ter acordado. ia pra escola sem motivacao nenhuma, porque mal sabia se ia viver até me formar. o quanto eu pesquisei sobre isso quando era menor é sacanagem. nunca soube como contar pra ninguem.
+
+lembro de um professor que me chamou de preguiça na frente de todo mundo porque eu nao tava prestando atenção. claro que nao tava. peguei minhas coisas e saí enquanto ele continuava gritando. por essas e outras que odeio aula presencial até hoje, mas na época nao conseguia explicar o motivo real.
+
+o motivo real é que sou autista. desde criança a aula presencial era um ambiente que eu nao processava direito. a estratégia era fingir que tava entendendo e em casa tentar aprender do zero com a apostila. aquele professor nao foi o único, vários fizeram a mesma coisa ao longo dos anos, xingar em público de preguiça e desinteresse quem ficava em silencio sem atrapalhar ninguem e simplesmente nao conseguia filtrar os estímulos de uma sala cheia. 
+
+consegui me formar mesmo assim. mas sempre estudei por fora. a aula presencial, pra mim, nunca foi onde o aprendizado acontecia de verdade. era o lugar onde eu sobrevivia até poder estudar de verdade.
+
+entendo as críticas ao ead, tem fundamento em muitas. mas o ataque generalizado afunda quem realmente precisa daquilo pra conseguir aprender. quem nunca precisou de um formato diferente raramente consegue imaginar que o problema pode nao ser o aluno.
+
+quando terminei o ensino médio nao recebi parabéns dos meus pais. nao era rancor, era só... eu queria ter recebido. tinha feito algo que pra mim era muito mais difícil do que parecia por fora. nao por causa das provas, mas por causa de ainda estar aqui pra chegar até aquele dia. 
+
+nao conto isso pra gerar pena. conto porque é contexto. a mesma pessoa que tava nessa situaçao foi pra faculdade, fez duas graduaçoes simultâneas, dois mbas, certificações, primeiro lugar em concursos. e ninguem sabia o que tava acontecendo por dentro em nenhum desses momentos. talvez esse seja o padrão da minha vida inteira. o que ta acontecendo de verdade, ninguem vê.
+
+**sempre na vanguarda, sempre sem nada**
+
+tem uma coisa que carrego com um ressentimento que ainda nao consegui resolver, e vou ser transparente sobre isso.
+
+eu cheguei antes em muita coisa. nao por estratégia. por curiosidade genuína, por hiperfoco, por estar sempre no lugar certo na hora que ninguem ainda tinha percebido que era o lugar certo. e nunca ganhei nada com isso. nem dinheiro, nem reconhecimento, nem uma única vez alguém que chegasse depois e dissesse "nossa, você tava lá antes de todo mundo". 
+
+em 2008, com doze anos, eu usava vpn pra burlar bloqueio de ip de um jogo que nao tava disponível pra brasileiros. por causa disso eu via anúncios americanos. e um deles era da netflix, que na época tava estreando no streaming de filmes pela internet. eu vi a netflix antes de todo mundo no brasil saber o que era a netflix.
+
+em 2012 meu primeiro contato com bitcoin foi através de jogos online. um jogo que eu jogava fechou os servidores ocidentais, e quem queria continuar jogando nos servidores asiáticos precisava transacionar dinheiro internacionalmente. o método era bitcoin, sem banco, sem cartao, sem fronteira. eu tava no bitcoin em 2012, minerando em 2013, usando os coins pra comprar jogos e domínios porque nao tinha conta bancária e nao tinha dinheiro, mas os bitcoins resolviam.
+
+gastei tudo. sempre que minerava o suficiente pra comprar o que queria, comprava. nao guardei. nao tinha como imaginar o que viria depois. cada satoshi que gastei em domínio hoje valeria uma quantia ridícula. 
+
+em 2014 conheci o dogecoin e nao liguei. em 2016 descobri num fórum gamer uma altcoin que se ganhava jogando league of legends, o digibyte. tinha cerca de quinhentos mil dgb. negociei antes da valorizaçao. sempre antes da valorizaçao. o padrão da minha vida com cripto é esse, chegar cedo demais, sair cedo demais, ver de longe a coisa explodir depois.
+
+nos jogos online eu era o tipo de pessoa que tava em servidores antes de ficarem famosos, que conhecia mecânicas antes de youtubers fazerem vídeos explicando. eu era quem ensinava os outros. hoje nao existe registro disso em lugar nenhum que o mundo veja.
+
+a mesma história se repetiu com criadores de conteúdo. assisti muita gente hoje enorme quando eles tinham centenas de visualizaçoes. acompanhei canais antes de qualquer algoritmo recomendar. nunca comentei "estava aqui quando você tinha mil inscritos" porque me parece performático, mas a verdade é que eu tava. nao importou. eles cresceram, ficaram famosos, e eu sou ninguem que os assistia numa fase que ninguem lembra mais.
+
+com vtubers foi igual. a cena de vtuber com ia, eu acompanhava desde muito cedo. nao era a única pessoa ali, tinha uma comunidade pequena. mas é o tipo de coisa que quando você fala pra alguém hoje a pessoa pensa que você ta exagerando. e mesmo que acreditasse, nao muda nada na sua situaçao concreta. chegar antes em algo nao da crédito, nao paga conta. 
+
+alguns anos atrás, logo depois que as ferramentas de IA generativa ficaram acessiveis, eu ja tinha clonado minha própria voz com ia. usei rvc no google colab, rodei muitas épocas de treino, e criei uma ia que respondia perguntas em lives ao vivo usando a minha voz sintética. me inspirei em vtubers de ia. o resultado funcionou. o projeto ficou tecnicamente interessante. ninguem viu. nao virei referência em nada. o post que publiquei sobre isso teve engajamento de zero vírgula nada.
+
+alguns anos atrás, clonagem de voz acessível com rvc era coisa de uma minoria muito pequena de pessoas no mundo. hoje qualquer pessoa com celular consegue fazer isso em segundos. mas na época eram horas de setup, colab, cuda, e entender o modelo. eu tava lá.
+
+o padrão se repete ad nauseam. bitcoin em 2012: antes. netflix em 2008: antes. clonagem de voz com ia quando ainda era novidade: antes. vtubers: antes. influencers: antes. sempre antes. e sempre sem nada a mostrar pra isso além da minha própria memória de que eu tava lá.
+
+nao to dizendo que isso me daria direito a dinheiro ou fama automaticamente. eu sei que só estar no lugar nao é suficiente. mas o que me incomoda é que a narrativa que o mundo gosta de vender, a de que os primeiros a adotar algo novo saem na frente, simplesmente nao se aplicou a mim em nenhuma das dezenas de vezes que fui early adopter. a vantagem foi sempre pra outros. e eu continuei no mesmo lugar. 
+
+guardo esse ressentimento com uma clareza que incomoda. nao é amargura cega, é a percepçao objetiva de que estive em muitos lugares certos na hora certa, e a história continuou sem me incluir.
+
+**a van de uma cidade pra outra**
+
+eu morava numa cidade do sul e estudava em outra. a distância nao é trivial. mas o detalhe que mais pesa quando eu lembro é a rotina da van.
+
+a van passava nas residências dos alunos. ela me pegava cedo e me deixava por último. o trajeto todo pra mim era o mais longo possível nos dois sentidos. saía de casa de tarde e chegava de volta de madrugada. 
+
+tomava remédio pra enjoo porque sinto enjoo em viagens mesmo. e enquanto todo mundo dormia, eu ficava estudando pelo celular, aprendendo língua japonesa por aplicativo, assistindo vídeos de canais sobre importaçao e comércio exterior. naquela época, em 2016, eu comprava bastante pelo aliexpress e entendia bem como funcionava a cadeia. nos fins de semana fazia curso de mandarim presencial. durante um tempo também fazia curso de montagem de pc, também presencial. tudo junto, ao mesmo tempo.
+
+em algum momento o corpo cobrou a conta. ja cheguei a desmaiar de cansaço em público. nao de uma vez de drama, mas de exaustao acumulada, de me forçar além do que o corpo aguenta por um período longo. fui ficando doente. nao foi uma escolha dramática de sacrifício, foi simplesmente o resultado de estudar pesado demais sem estrutura de suporte suficiente.
+
+**me formei na pandemia**
+
+me formei em relações internacionais em 2020. ao mesmo tempo, tava concluindo a graduaçao em comércio exterior por outra universidade. duas graduaçoes simultâneas. meu tcc de ri foi sobre macroeconomia aplicada ao comércio internacional.
+
+2020. pandemia de covid. o setor de comércio exterior foi um dos mais atingidos. portos paralisados, cadeias de suprimento quebradas, empresas demitindo os profissionais da área. me formei no pior momento possível pra entrar exatamente no setor pro qual eu havia estudado anos. 
+
+nao consegui nenhuma vaga na área. nenhuma. o mercado tava congelado.
+
+**o mercado financeiro**
+
+sem saída no comércio exterior, decidi focar no mercado financeiro. afinal, eu ja entendia macroeconomia em alguma profundidade. fui estudar de verdade.
+
+tirei certificações de especialista em investimentos. passei na ancord. fiz um mba numa faculdade conceituada, quatrocentas horas, notas altas em quase tudo. numa competiçao simulada de investimentos entre muitos participantes, fiquei perto das primeiras posiçoes com uma carteira que montei no primeiro dia e nao toquei mais. fiz um segundo mba. mais dois mbas.
+
+e nunca consegui vaga em banco. nem em cooperativa de crédito. nem em nada do setor financeiro formal. 
+
+a única experiência que tive na área foi fazendo consultoria de investimentos pj numa empresa de assessoria. recomendo a experiência até hoje, especialmente porque conheci um gestor com uma visão ética de mercado financeiro rara num ambiente corrompido por conflito de interesses. foi uma experiência real, mas enfrentei dificuldades por conta da parte comercial do trabalho.
+
+**a consultoria de tecnologia**
+
+logo depois veio uma oportunidade numa consultoria de tecnologia grande, na área de programaçao. entrei no programa de bolsas, fui muito bem. tirei uma certificaçao de cloud básica. tirei nota máxima em todos os desafios do programa. a efetivaçao foi num projeto complexo e importante, com um banco grande.
+
+mas nao consegui me adaptar ao dia a dia de imprevisibilidades de rotina da empresa. é doloroso admitir isso. fui bem em tudo que era mensurável, prova, desafio, certificaçao, projeto. mas o formato do trabalho em si, as mudanças constantes de demanda, a falta de previsibilidade da rotina diária, me desestruturou. saí depois de um mês.
+
+eu sei que isso parece contraditório com tudo que eu descrevi antes. uma pessoa que estudou tanto, que suportou tanta coisa, que aguentou anos de van de madrugada, nao aguenta um mês de empresa? acredito que parte dessa resposta tá em como meu cérebro funciona, no que hoje eu entendo melhor sobre neurodivergência e sobre os ambientes em que consigo e nao consigo performar. mas é uma conversa mais longa e eu ainda nao terminei de processar tudo.
+
+**os concursos**
+
+decidi entao focar em concursos públicos, que têm uma vantagem clara: a avaliaçao é objetiva, a régua é a mesma pra todo mundo, e o resultado é público.
+
+em menos de seis meses, passei em vários. primeiro lugar em dois deles. um deles pra concurso na área de TI, com muitos inscritos. outro pra instrutor de informática, onde fiz a prova em condiçoes dificeis e ainda assim fiquei na frente do segundo colocado.
+
+até hoje nenhum me chamou. zero convocaçoes. nomearam gente de quase todos os outros cargos do concurso de analista, e o meu continua parado. o silêncio da administraçao pública tem um peso todo especial. 
+
+entao essa é a situaçao real. em primeiro lugar nos concursos, sem receber convocaçao, sem conseguir emprego no privado, sem dinheiro, com saúde comprometida.
+
+**o que nao aparece em nenhuma régua**
+
+tem uma variável nessa equaçao que nao aparece em nenhum gráfico de empregabilidade. e é provavelmente a mais pesada de todas.
+
+tenho uma condiçao de saúde que impoe um nível de sofrimento que a maioria das pessoas nao vai conseguir imaginar. nao é o autismo. nao to usando hipérbole. a dor que vem com ela nao é episódica, nao tem hora marcada pra começar e acabar. é passiva, constante, em todos os horários, em graus que variam de forma imprevisível. pode estar num nível e em quinze minutos estar completamente diferente. nao cresce de forma linear, é exponencial. quando sobe, nao consigo fazer nada. fico na cama esperando passivamente algo que nao sei quando vai passar. 
+
+a melhor analogia que consigo fazer é essa. imagina estar eternamente sufocando debaixo da água. sem conseguir respirar direito. mas também sem conseguir sair. você aprende a funcionar parcialmente dentro desse estado porque nao tem outra opçao. mas "funcionar parcialmente" nao aparece em currículo, nao conta pra banca de concurso, nao é visível pra ninguem de fora.
+
+tenho quase certeza que uma pessoa em isolamento total, imobilizada, sem poder fazer nada, sofre objetivamente menos do que eu nesse estado. isso nao é drama. é o que sinto, e sinto com clareza.
+
+estou em acompanhamento médico. aguardo um procedimento. o processo avança no tempo que avança, dependendo de uma cadeia de fatores que nao tao sob meu controle. enquanto isso, a urgência continua. tentei comunicar o nível disso algumas vezes. o resultado invariavelmente é complicaçao, nao compreensao. aprendi a nao falar sobre isso.
+
+o plano de saúde dificulta o que pode. os familiares também. e tudo que tento fazer pra mover o processo resulta em novo obstáculo, nova espera, novo fator fora do meu controle. 
+
+fico me perguntando se faz sentido continuar me esforçando. nao é retórica. é uma pergunta real que nao consigo responder com clareza. fiz o que a narrativa manda fazer. estudei, construí, insisti. cadê a recompensa? nao precisa ser grande. pode ser qualquer coisa concreta. mas nao aparece.
+
+o que fica é a sensaçao de que empatia é rara. as pessoas priorizam o que é bom pra elas. ta errado? provavelmente nao. é o jeito que funciona. no fim, certo e errado sao subjetivos. cada um constrói a própria lógica. eu só ainda nao encontrei uma que explique por que é tao difícil. 
+
+antes conseguia dormir pra aliviar um pouco. era temporário, mas era alívio. agora até dormindo sofro. esse escape fechou.
+
+entao quando eu digo que a situaçao é difícil, nao é só sobre o mercado, os concursos, o dinheiro, que ja seria muito. é tudo isso acontecendo em paralelo com uma dor constante que ninguem ao redor consegue calibrar, e que ninguem vai entender nem um por cento de como é sem ter passado por ela. estudar, construir projetos, fazer concurso tem sido também uma forma de ter estrutura num cenário onde quase tudo depende da vontade de terceiros. médicos, juízes, empregadores. eu faço a parte que depende de mim. o resto nao tá nas minhas maos. 
+
+**a conta que nao fecha**
+
+eu fico tentando fazer essa conta e ela nao fecha.
+
+se as bancas de concurso me colocam em primeiro lugar, com critérios objetivos, entre candidatos que estudaram meses pra aquele edital específico, entao algum nível de competência existe. nao é ilusao minha. tem gabarito e resultado publicado.
+
+se o mercado privado nao me contrata pra nenhuma posiçao, nem de entrada, entao ou o mercado avalia coisas que os concursos nao medem e que eu nao tenho, tipo experiência formal em carteira, que é um pré-requisito que se auto-perpetua. ou meu perfil é considerado arriscado de alguma forma que ninguem me diz explicitamente, seja pela diversidade de áreas, seja pela pouca experiência formal, seja pelo histórico irregular. ou tem algo no processo seletivo do mercado privado que eu nao consigo passar bem e que nao é sobre conhecimento técnico.
+
+provavelmente as três ao mesmo tempo. mas nenhuma dessas respostas muda a equaçao prática. to aqui, precisando de dinheiro, com saúde que nao tá bem, e a lacuna entre o que as provas objetivas dizem sobre mim e o que o mercado decide sobre mim é enorme. 
+
+**o que nunca parei de fazer**
+
+mesmo sem emprego, sem dinheiro, sem saúde boa, nunca parei de estudar. esse blog existe porque eu preciso escrever sobre o que aprendo. meu app de estudos existe porque eu precisava de uma ferramenta melhor pra mim e resolvi construir. meus algoritmos de web scraping existem porque eu queria entender mercado de tecnologia com dados. sempre teve alguma coisa sendo construída, mesmo quando o ambiente externo tava caindo.
+
+isso nao é humildade falsa nem é autocompaixao. é simplesmente verdade. as pessoas que pararam de se desenvolver por falta de resultado ja pararam faz tempo. eu nao parei. mas também preciso admitir, estudar muito sem conseguir transformar isso em trabalho e em dinheiro tem um custo alto, nao só financeiro. tem um custo emocional que vai acumulando. 
+
+hoje, olhando pra trás, sinto que fiz um pouco de tudo mas nao cheguei a dominar nada de verdade. deveria ter focado num único ponto. tem um conceito japonês pra isso, ittenshuuchuu, concentraçao total num único ponto. é o que me faltou. e o que me incomoda é que hoje ainda cometo o mesmo erro, quero estudar de tudo ao mesmo tempo, o que é um erro. mas repetir os próprios erros é um defeito meu.
+
+**por que to escrevendo isso aqui**
+
+esse blog é anônimo. nao tem audiência, nao tem recrutador lendo pra impressionar, nao tem algoritmo pra otimizar. é só texto numa página que quase ninguem vai ver.
+
+e é exatamente por isso que consigo ser transparente aqui. a situaçao é difícil. a conta nao fecha. nao sei quando os concursos vao me chamar, se vao. nao sei o que acontece com minha saúde enquanto isso. nao tenho um final feliz pra apresentar nem uma liçao motivacional pra empacotar.
+
+o que eu tenho é o registro honesto de que me esforcei muito, em condiçoes muitas vezes ruins, e que os resultados objetivos quando existiram foram bons. e que apesar disso, o mundo ao redor ainda nao criou espaço pra isso virar algo sustentável.
+
+nao sei se o problema é o mercado, se sou eu, se é o brasil, ou se é a combinaçao das três coisas. provavelmente a combinaçao das três. mas me recuso a fingir que tá tudo bem quando nao tá, ou que a soluçao é só "se esforçar mais". (´｡• ᵕ •｡\\)
+`;
