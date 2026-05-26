@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Desabafos da tapioca sobre plano de saude, empresas, RH e vida.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://tapiokr.github.io/tapioka/">
+<meta property="og:title" content="tapioca desabafos">
+<meta property="og:description" content="Desabafos anonimos sobre plano de saude, empresas, RH e a vida. Escritos pela tapioca.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tapiokr.github.io/tapioka/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="tapioca desabafos">
+<meta name="twitter:description" content="Desabafos sobre plano de saude, empresas, RH e a vida.">
+
+<title>tapioca.txt</title>
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+<header>
+  <h1>🍡 tapioca.txt</h1>
+  <nav>
+    <a href="index.html">inicio</a>
+    <a href="sobre.html">sobre</a>
+  </nav>
+</header>
+
+<main>
+  <p class="sub">desabafos anonimos de uma menina cansada</p>
+  <div id="lista"></div>
+</main>
+
+<footer>
+  <small>sem cookies.</small>
+</footer>
+
+<script src="posts.js?v=2"></script>
+<script>
+(function() {
+  const container = document.getElementById('lista');
+  if (!window.POSTS || !POSTS.length) {
+    container.innerHTML = '<p class="vazio">nenhum post ainda.<br>edite <code>posts.js</code> e crie um arquivo em <code>posts/</code> para comecar.</p>';
+    return;
+  }
+
+  function loadScript(src) {
+    return new Promise((resolve, reject) => {
+      const s = document.createElement('script');
+      s.src = src;
+      s.onload = resolve;
+      s.onerror = reject;
+      document.head.appendChild(s);
+    });
+  }
+
+  function getPreview(id) {
+    const key = '__post_' + id;
+    if (!window[key]) return '(sem conteudo)';
+    const t = window[key].substring(0, 180).replace(/\n/g, ' ');
+    return t + (window[key].length > 180 ? '…' : '');
+  }
+
+  Promise.all(POSTS.map(p => loadScript(p.script))).then(() => {
+    const html = POSTS.slice().reverse().map(p => {
+      const data = p.date ? `<time datetime="${p.date}">${p.date}</time>` : '';
+      const tags = (p.tags || []).map(t => `<span class="tag">${t}</span>`).join(' ');
+      return `<article>
+        <h2><a href="posts/${p.id}.html">${p.title}</a></h2>
+        <div class="meta">${data} ${tags}</div>
+        <p>${getPreview(p.id)}</p>
+      </article>`;
+    }).join('\n');
+    container.innerHTML = html;
+  }).catch(err => {
+    container.innerHTML = '<p class="vazio">erro ao carregar posts.<br>verifique se os arquivos em <code>posts/</code> existem.</p>';
+  });
+})();
+</script>
+</body>
+</html>

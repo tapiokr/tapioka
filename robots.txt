@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tapiokr.github.io/tapioka/sitemap.xml
